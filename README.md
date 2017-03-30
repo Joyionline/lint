@@ -1,0 +1,2 @@
+# lint
+golang go lint 
